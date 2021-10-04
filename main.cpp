@@ -1,7 +1,5 @@
 #include <iostream>
 
-#include <iostream>
-
 int cubicSurfaceArea(int a);
 
 int main() {
